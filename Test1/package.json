@@ -1,0 +1,11 @@
+{
+  "name": "Test1",
+  "version": "1.0.0",
+  "description": "test node app",
+  "main": "index.js",
+  "author": "Ivanhoe",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
